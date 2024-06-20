@@ -1,5 +1,5 @@
-#### Project Title: 
-#### Analyzing Seasonal Variations in Seattle Weather Patterns
+### Project Title: 
+### Analyzing Seasonal Variations in Seattle Weather Patterns
 
 This project aims to analyze the seasonal variations in weather patterns in Seattle, focusing on precipitation. The analysis will include statistical tests, time series analysis, and visualizations to understand the trends and patterns in the data. Additional data may be requested to enhance the analysis and provide a more comprehensive understanding of Seattle's weather.
 
